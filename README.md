@@ -1,20 +1,4 @@
-### Hola, soy Grecia Guillén 👋
-QA Engineer Semi Senior | Automatización con Cypress
 
-Este es mi espacio de estudio y práctica en testing y automatización.
-
-Acá tenés los badges para todas (nota: pusiste Selenium dos veces, así que lo agrego una sola vez):
-
-markdown
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-Sección completa final, con todo junto
-markdown
 ### Hola, soy Grecia Guillén 👋
 QA Engineer Semi Senior | Automatización con Cypress
 
