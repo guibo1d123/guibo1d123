@@ -1,6 +1,6 @@
 
 ### Hola, soy Grecia Guillén 👋
-QA Engineer Semi Senior | Automatización con Cypress
+QA  Semi Senior | Automatización con Cypress
 
 Este es mi espacio de estudio y práctica en testing y automatización.
 
